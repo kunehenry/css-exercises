@@ -7,3 +7,7 @@
     color: #1e00ff;
     font-size: 36px;
 }
+
+.odd-numbered.third {
+    font-size: 24px;
+}
